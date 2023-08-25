@@ -1,6 +1,6 @@
 # Olá Mundo! 
 #Sou um aspirante a Dev, me Chamo Lucas 
-<a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"></a> 
+
 ### Sobre mim
 
 Tenho 33 anos sou pai de pet, e estou iniciando os estudos em programação.
@@ -14,6 +14,10 @@ Tenho 33 anos sou pai de pet, e estou iniciando os estudos em programação.
 📚 Livros favoritos: [Senhor dos Aneis a Trilogia-J. R. R. Tolkien,Deus não é grande: como a religião envenena tudo-Christopher Hitchens, Cosmos-Carl Sagan e Coleção da Miss Marple- Agatha Christie]
 
 :hammer: Minha carreira:[Mecanico de Autos, Ajudante de Mecanico Diesel, Instalador de Som e Alarme, Empacotador, Repositor, Analista de SKU, Faturista, Monitor orperacional, Auxiliar de Logistica e nos ultimo anos BackOffice].
+
+
+
+
 
 **Tecnologias e Ferramentas**
 
@@ -106,6 +110,10 @@ Console.WriteLine($"{course4Name} \t{course4Grade}\t\t{course4Credit}");
 Console.WriteLine($"{course5Name} \t\t{course5Grade}\t\t{course5Credit}");
 Console.WriteLine($"Final GPA: {totalGradePointsAverage}");
 ````
+## Meus certificados:<div>
+<a href="https://drive.google.com/drive/folders/17tCPS6lEVf0iMYCnJmqLbkA4Rwt1uqlR?usp=sharing"> <img src="https://github.com/LucasASouzak/LucasASouzak/assets/69766929/64a79ef4-cc1b-4ef9-8c02-503f5824b4f0" class="media-object  img-responsive img-thumbnail" alt="Image" height="200" width="200"></a></div>
+https://shre.ink/certificadosLucasASouza
+
 <!--
 Substitua o usuário pelo seu usuário no GitHub.
 -->
