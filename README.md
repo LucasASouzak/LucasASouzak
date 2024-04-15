@@ -13,7 +13,7 @@ Tenho 33 anos sou pai de pet, e estou iniciando os estudos em programação.
 
 📚 Livros favoritos: [Senhor dos Aneis a Trilogia-J. R. R. Tolkien,Deus não é grande: como a religião envenena tudo-Christopher Hitchens, Cosmos-Carl Sagan e Coleção da Miss Marple- Agatha Christie]
 
-:hammer: Minha carreira:[Mecanico de Autos, Ajudante de Mecanico Diesel, Instalador de Som e Alarme, Empacotador, Repositor, Analista de SKU, Faturista, Monitor orperacional, Auxiliar de Logistica e nos ultimo anos BackOffice].
+:hammer: Minha carreira:[Mecânico de Autos, Ajudante de Mecânico Diesel, Instalador de Som e Alarme, Empacotador, Repositor, Analista de SKU, Faturista, Monitor operacional, Auxiliar de Logística e nos últimos anos BackOffice].
 
 
 
