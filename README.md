@@ -3,7 +3,7 @@
 
 ### Sobre mim
 
-Tenho 33 anos sou pai de pet, e estou iniciando os estudos em programação.
+Tenho 34 anos sou pai de pet, e estou iniciando os estudos em programação.
 
 🎓 Estudando [Analise e Desenvolvimento de Sistemas](https://unibta.edu.br/analise-e-desenvolvimento-de-sistemas/) | [Engenharia de Dados](https://www.cursosviarapida.sp.gov.br/qualificaSP/details/7751) | [Inglês duolingo](https://www.duolingo.com/profile/LucasASouzak)
 
